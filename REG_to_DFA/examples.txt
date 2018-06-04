@@ -1,0 +1,3 @@
+(a|b)*abb
+(a|b)*aabbcca(a|b)loaquwbaa*c*(a|b)
+(aa)*a(bb)*b
